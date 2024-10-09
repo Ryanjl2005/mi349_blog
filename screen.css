@@ -1,7 +1,5 @@
-body{
-    background: #000000;
-    font-family:Helvetica, sans-serif;
-    border-top: 15px solid #424242;
-    margin: 0 auto;
-    color: #ffffff;
-}
+div.navBar {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
