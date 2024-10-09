@@ -25,7 +25,7 @@ font-size: 17px;
 
 }
 
-div.navBar a.active {
-    color: white;
-  }
+a.active {
+    font-weight: bold;
+}
  
