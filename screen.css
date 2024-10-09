@@ -19,13 +19,13 @@ div.navBar {
     width:900px;
  }
 div.navBar a{
-    text-align: center;
+    
     padding: 14px 16px;
 font-size: 17px;
 
 }
 
-.topnav a.active {
+div.navBar a.active {
     color: white;
   }
  
