@@ -1,18 +1,12 @@
 div.navBar {
-    background-color: #333;
+    background-color: #818181;
     overflow: hidden;
     
   }
   
  main{
     margin:0 auto;
-    background: #412f63;
+    width:800px;
  }
 
- body{
-    background: #412f63;
-    font-family:Helvetica, sans-serif;
-    border-top: 15px solid #424242;
-    margin: 0 auto;
-    color: #ffffff;
-}
+ 
