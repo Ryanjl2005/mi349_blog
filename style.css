@@ -1,7 +1,13 @@
 body{
     background-color: #81e9d2;
+    margin: 0 auto;
 }
 
 h1{
     color: rgb(0, 0, 0);
+}
+
+div.navBar{
+    margin:0 auto;
+    font-size: medium;
 }
