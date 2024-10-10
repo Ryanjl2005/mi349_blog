@@ -1,6 +1,6 @@
 body{
     background-color: #81e9d2;
-    margin: 0 auto;
+    
 }
 
 h1{
@@ -10,4 +10,5 @@ h1{
 div.navBar{
     margin:0 auto;
     font-size: medium;
+    text-align: left;
 }
