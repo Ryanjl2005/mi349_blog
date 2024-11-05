@@ -1,10 +1,35 @@
+html{
+    background: #4f7c64;
+}
+
 body{
-    background-color: #9ceec1;
     
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 20px;
+    border-top: 10px solid #000000;
+    background: #9ceec1;
 }
 
 h1{
     color: rgb(0, 0, 0);
+    font-size: 2.5em;
+    margin: 0;
+}
+
+P{
+line-height: 1.8em;
+
+}
+
+blog{
+    display:flex;
+    flex-direction: column;
+}
+.img-container{
+float:left;
+margin-right: 15px;
+
 }
 
 div.navBar{
